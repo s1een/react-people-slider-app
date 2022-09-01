@@ -4,7 +4,7 @@
 - This application is a simple slider with photos and information, information is taken from the side of his site using the API.
 - The application can be tested from the [link](https://s1een.github.io/react-people-slider-app/ "link").
 
-# React Menu App
+# React Slider App
 
 ![](https://miro.medium.com/max/1000/0*aHvK7Rbt_Dv74mWq.png)
 
